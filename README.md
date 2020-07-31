@@ -1,6 +1,6 @@
 # soft-clicks
 
-> A pseudo-ecommerce store selling slimes of all kinds
+> A fictional e-commerce website built using Vue.js and AWS.
 
 ## Build Setup
 
