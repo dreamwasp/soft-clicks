@@ -1,4 +1,4 @@
-# slime-poetry
+# soft-clicks
 
 > A pseudo-ecommerce store selling slimes of all kinds
 
